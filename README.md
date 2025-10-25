@@ -1,5 +1,4 @@
 # 在此文件中实现 PrimeList 函数
-
 def PrimeList(N):
     """
     返回小于 N 的所有质数，以空格分隔    
